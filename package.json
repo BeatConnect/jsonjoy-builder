@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lovasoa/jsonjoy-builder"
+    "url": "https://github.com/BeatConnect/jsonjoy-builder"
   },
   "scripts": {
     "dev": "rsbuild dev",
